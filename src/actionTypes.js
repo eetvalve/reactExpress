@@ -1,0 +1,12 @@
+export const ADD_TODO = 'ADD_TODO'
+export const TOGGLE_TODO = 'TOGGLE_TODO'
+export const SET_VISIBILITY_FILTER = 'SET_VISIBILITY_FILTER'
+export const DEL = 'DEL'
+export const SHOW_MESSAGE = 'SHOW_MESSAGE'
+export const EDIT_TODO = 'EDIT_TODO'
+export const UPDATE= 'UPDATE'
+
+
+export const ITEMS_HAS_ERRORED = 'ITEMS_HAS_ERRORED'
+export const ITEMS_IS_LOADING = 'ITEMS_IS_LOADING'
+export const ITEMS_FETCH_DATA_SUCCESS = 'ITEMS_FETCH_DATA_SUCCESS'
